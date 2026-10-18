@@ -147,6 +147,14 @@ Built with [@aayuxsh326](https://github.com/aayuxsh326) and [@SK8-infi](https://
 </tr>
 </table>
 
+## 🌍 Open source
+
+I contribute fixes to other projects. The pull requests and issues I've opened on
+[mozilla/web-ext](https://github.com/mozilla/web-ext), [Open Collective](https://github.com/opencollective/opencollective)
+and others are collected in one place, each with what I changed and how it ended.
+
+➡️ **[open-source-contributions](https://github.com/itsnjstyle27/open-source-contributions)**
+
 ---
 
 ## 🧰 Tech stack
