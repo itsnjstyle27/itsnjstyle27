@@ -101,7 +101,7 @@ whether personalisation beats plain popularity.
 different hospitals together, gives doctors and insurers temporary, scoped access via QR code or OTP,
 and reads scanned reports offline with OCR to track follow-ups nobody should miss.
 
-- **182 backend tests**; consent-aware AI assistant over the patient's own records
+- **200+ backend tests**; consent-aware AI assistant over the patient's own records
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Tesseract.js`
 
