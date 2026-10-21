@@ -109,24 +109,6 @@ and reads scanned reports offline with OCR to track follow-ups nobody should mis
 </tr>
 </table>
 
-## 🛠️ Developer tools
-
-<table>
-<tr>
-<td width="45%" valign="top"><a href="https://github.com/itsnjstyle27/patchwright"><img src="https://raw.githubusercontent.com/itsnjstyle27/patchwright/main/docs/cli.svg" alt="patchwright"></a></td>
-<td valign="top">
-
-### [patchwright](https://github.com/itsnjstyle27/patchwright)
-**Finds open-source issues worth fixing, including cash bounties, and fixes them.** Works in a
-sandboxed agent loop, proves each fix with tests, and writes a clean pull request. Nothing is pushed
-until you approve it.
-
-`Python` `Typer` `Anthropic SDK` `Gemini`
-
-</td>
-</tr>
-</table>
-
 ## 🤝 Collaborations
 
 <table>
